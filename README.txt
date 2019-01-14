@@ -36,6 +36,7 @@ The main function is ‘TVL0_select’.
 RELATED PUBLICATION:
 
 # J. Frecon, N. Pustelnik, N. Dobigeon, H. Wendt, and P. Abry
-Bayesian selection for the l2-Potts model regularization parameter: 1D piecewise constant signal denoisingPreprint arXiv:1608.07739
+Bayesian selection for the l2-Potts model regularization parameter: 1D piecewise constant signal denoising
+Preprint arXiv:1608.07739
 
 ------------------------------------------------------------------------------------------------------------------------
